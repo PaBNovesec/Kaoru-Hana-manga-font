@@ -4,11 +4,11 @@ Curently no suport for serif I , so to acces it you need to use lowercase I lett
 
 All availible characters in the font :
 
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z i Ї , . ? ! " ' - – … *
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z i Ї , . … - – ' " * ? !
 
 Font characters preview: 
 
-<img width="800" height="800" alt="Без имени-1" src="https://github.com/user-attachments/assets/07ffd25b-0019-480c-9488-6a6428dcaea9" />
+<img width="400" height="400" alt="test" src="https://github.com/user-attachments/assets/713bad93-2f0b-4697-a871-7f6d07ddc5d3" />
 
 Font examlpes : 
 
