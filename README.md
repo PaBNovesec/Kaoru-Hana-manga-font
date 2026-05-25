@@ -4,20 +4,24 @@ Curently no suport for serif I , so to acces it you need to use lowercase I lett
 
 All availible characters in the font :
 
-! " ' * , - . ? A B C D E F G H I J K L M N O P Q R S T U V W X Y Z i Ї – …
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z i Ї , . ? ! " ' - – … *
 
 Font characters preview: 
 
-<img width="231" height="314" alt="Screenshot_1" src="https://github.com/user-attachments/assets/87bd4070-965e-42d0-8731-b512319f50ad" />
+<img width="800" height="800" alt="Без имени-1" src="https://github.com/user-attachments/assets/07ffd25b-0019-480c-9488-6a6428dcaea9" />
 
 Font examlpes : 
 
-<img width="1072" height="454" alt="1" src="https://github.com/user-attachments/assets/823dad51-a207-460d-a541-16d0057b3012" />
-<img width="960" height="1378" alt="2" src="https://github.com/user-attachments/assets/9b425a9f-7470-4f42-aaa5-f5308e8ace13" />
-<img width="320" height="428" alt="3" src="https://github.com/user-attachments/assets/41be857e-b1ad-4985-8803-93bfb7060270" />
-<img width="320" height="571" alt="4" src="https://github.com/user-attachments/assets/9a5aeb36-d9ee-4f59-b531-88f7cd9ddcfd" />
-<img width="868" height="1004" alt="5" src="https://github.com/user-attachments/assets/c67bedb4-1886-4081-aa9d-221cddc64784" />
-<img width="866" height="760" alt="6" src="https://github.com/user-attachments/assets/9d119780-402d-442e-825c-d6f8d4d652dd" />
+<img width="870" height="368" alt="Без названия (1)" src="https://github.com/user-attachments/assets/15aedf8f-004c-4321-b42f-16889df8d2c8" />
+<img width="960" height="1378" alt="similarities-to-the-one-shot-v0-whjfscd1raxg1" src="https://github.com/user-attachments/assets/8f22af45-3799-4889-866b-516c1f2fd1c5" />
+<img width="868" height="1004" alt="Без названия (2)" src="https://github.com/user-attachments/assets/a164a8f8-119c-4cff-894b-220aca3b4ffa" />
+<img width="322" height="431" alt="Без названия" src="https://github.com/user-attachments/assets/302dbf10-9628-433f-bacc-cf6dfc3564c4" />
+<img width="335" height="598" alt="Без названия (4)" src="https://github.com/user-attachments/assets/b6058174-e3fe-4f7e-8af5-a6a300e69a02" />
+<img width="866" height="760" alt="Без названия (3)" src="https://github.com/user-attachments/assets/de3907f7-f43a-4a11-9b01-ee582632242f" />
+
+
+
+
 
 # License
 This font is licensed under the SIL Open Font License 1.1 [License](https://github.com/PaBNovesec/Kaoru-Hana-manga-font/blob/main/LICENSE).
